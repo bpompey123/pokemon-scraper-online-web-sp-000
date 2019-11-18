@@ -18,5 +18,4 @@ class Pokemon
     Pokemon.new(id: result[0], name: result[1], type: result[2], db: db)
   end
 
-  end
 end
